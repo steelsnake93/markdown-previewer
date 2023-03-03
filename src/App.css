@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+#editor, #preview {
+  padding: 15px;
+  border-radius: 10px;
+  background-color: #c8ddf8;
+  border: none;
+  width: 100%;
+}
+
+#editor {
+  min-height: 300px;
+}
